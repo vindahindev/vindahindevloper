@@ -2,22 +2,22 @@
 
 "Ads": [
     {
-      "select_main_ads": "IRON",
+      "select_main_ads": "MOPUB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "DefaultBanner",
-      "main_ads_intertitial":"DefaultInterstitial",
+      "main_ads_banner": "bf8d61cf895b4af7a95c20bd2b365d13",
+      "main_ads_intertitial":"a87f5f295d0a46a2a256aaefcb949955",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "initialize_sdk":"11061ac45",
+      "initialize_sdk":"bf8d61cf895b4af7a95c20bd2b365d13",
       "initialize_sdk_backup_ads":"",
-      "url_webiste":"https://play.google.com/store/apps/details?id=com.kingkeyb.straykidskeyboardtheme",
+      "url_webiste":"https://play.google.com/store/apps/details?id=com.kingkeyb.cameronboycekeyboardtheme",
       "high_paying_keyword_1": "Forex",
       "high_paying_keyword_2": "Insurance",
       "high_paying_keyword_3": "Binary Option",
       "high_paying_keyword_4": "Finance",
       "high_paying_keyword_5": "Trading Forex",
       "status_app": "0",
-      "link_redirect": "https://play.google.com/store/apps/details?id=com.kingkeyb.straykidskeyboardtheme"
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.kingkeyb.cameronboycekeyboardtheme"
     }
   ]
 }
