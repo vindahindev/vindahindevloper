@@ -2,13 +2,13 @@
 
 "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "DefaultBanner",
-      "main_ads_intertitial":"DefaultInterstitial",
+      "select_main_ads": "MOPUB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "4f96f7cf839c42dfa794ecc383e84161",
+      "main_ads_intertitial":"5326b3297df645a684a24e9b34be8a88",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "initialize_sdk":"1105cf41d",
+      "initialize_sdk":"4f96f7cf839c42dfa794ecc383e84161",
       "initialize_sdk_backup_ads":"",
       "url_webiste":"https://play.google.com/store/apps/details?id=com.kingkeyb.cameronboycekeyboardtheme",
       "high_paying_keyword_1": "Forex",
