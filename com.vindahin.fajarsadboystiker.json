@@ -1,0 +1,253 @@
+{
+  "Ads": [
+  {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_reward":"",
+      "native_ads_for_admob_or_applovin":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_reward":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "mode_promo":"0",  
+      "icon_promo":"",
+      "title_promo":"",
+      "description-promo":"",
+      "install_promo":""
+   
+
+  }
+    ],"sticker_packs": [
+    {
+      "id": "1",
+      "name": "Fajar Sadboy",
+      "folder_link":"file:///android_asset/1/",
+      "image_cover": "00.png",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        }
+      ]
+    },
+	{
+      "id": "2",
+      "name": "Fajar Sadboy",
+      "folder_link":"file:///android_asset/2/",
+      "image_cover": "00.png",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        }
+      ]
+    },
+	{
+      "id": "3",
+      "name": "Fajar Sadboy",
+      "folder_link":"file:///android_asset/3/",
+      "image_cover": "00.png",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        }
+      ]
+    },
+	{
+      "id": "4",
+      "name": "Fajar Sadboy",
+      "folder_link":"file:///android_asset/4/",
+      "image_cover": "00.png",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        }
+      ]
+    },
+	{
+      "id": "5",
+      "name": "Fajar Sadboy",
+      "folder_link":"file:///android_asset/5/",
+      "image_cover": "00.png",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        }
+      ]
+    },
+	{
+      "id": "6",
+      "name": "Fajar Sadboy",
+      "folder_link":"file:///android_asset/6/",
+      "image_cover": "00.png",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        }
+      ]
+    },
+	{
+      "id": "7",
+      "name": "Fajar Sadboy",
+      "folder_link":"file:///android_asset/7/",
+      "image_cover": "00.png",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        }
+      ]
+    },
+	{
+      "id": "8",
+      "name": "Fajar Sadboy",
+      "folder_link":"file:///android_asset/8/",
+      "image_cover": "00.png",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+		{
+          "image_file": "07.webp"
+        },
+		{
+          "image_file": "08.webp"
+        },
+		{
+          "image_file": "09.webp"
+        },
+		{
+          "image_file": "10.webp"
+        }
+      ]
+    }
+  ]
+}

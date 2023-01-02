@@ -1,0 +1,119 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"null",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Sholawat Mughrom",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id":1,
+      "name_category":"Sholawat Mughrom",
+      "title":"Sholawat Mughrom 1",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/Mughrom1.mp3",
+      "lyrics":""
+    },
+    {
+      "id":2,
+      "name_category":"Sholawat Mughrom",
+      "title":"Sholawat Mughrom 2",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/Mughrom2.mp3",
+      "lyrics":""
+    },
+    {
+      "id":3,
+      "name_category":"Sholawat Mughrom",
+      "title":"Sholawat Mughrom 3",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/Mughrom3.mp3",
+      "lyrics":""
+    },
+    {
+      "id":4,
+      "name_category":"Sholawat Mughrom",
+      "title":"Sholawat Mughrom 4",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/Mughrom4.mp3",
+      "lyrics":""
+    },
+    {
+      "id":5,
+      "name_category":"Sholawat Mughrom",
+      "title":"Sholawat Mughrom 5",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/Mughrom5.mp3",
+      "lyrics":""
+    },
+    {
+      "id":6,
+      "name_category":"Sholawat Mughrom",
+      "title":"Sholawat Mughrom",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/Mughrom6.mp3",
+      "lyrics":""
+    },
+    {
+      "id":7,
+      "name_category":"Sholawat Mughrom",
+      "title":"Ahmad Ya Habibi",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/Ahmad Ya Habibi.mp3",
+      "lyrics":""
+    },
+    {
+      "id":8,
+      "name_category":"Sholawat Mughrom",
+      "title":"Qod Anshoha",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/Qod Anshoha.mp3",
+      "lyrics":""
+    },
+    {
+      "id":9,
+      "name_category":"Sholawat Mughrom",
+      "title":"Sholawat Burdah",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/Sholawat Burdah.mp3",
+      "lyrics":""
+    },
+    {
+      "id":10,
+      "name_category":"Sholawat Mughrom",
+      "title":"Syaikhona akustik",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/Syaikhona akustik.mp3",
+      "lyrics":""
+    }
+  ]
+}
